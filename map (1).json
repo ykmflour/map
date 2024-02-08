@@ -4,8 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Seberang Flour Mills SB",
-        "name":"TRON-02"
+       "label": "MEDIUM PIN",
+        "text-color": "%23632289",
+        "size": "medium",
+        "color": "%23AA82E7",
+        "outline-color": "%23632289"
       },
       "geometry": {
         "coordinates": [
@@ -13,8 +16,7 @@
           3.00343
         ],
         "type": "Point"
-      },
-      "id": 0
+      }
     }
   ]
 }
