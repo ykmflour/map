@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "label": "Label \nonly",
+        "labe-text": "Label \nonly",
         "text-color":"%23DD0000",
         "text-outline-color": "%2300DD00",
         "outline-width":2,
