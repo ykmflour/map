@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Location": "Seberang Flour Mills SB",
-        "Value": "Klang"
+        "name":"TRON-02"
       },
       "geometry": {
         "coordinates": [
