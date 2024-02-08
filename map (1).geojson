@@ -1,1 +1,71 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Location":"Seberang Flour Mills SB","value":"Klang"},"geometry":{"coordinates":[101.44436929170018,3.0469036036662516],"type":"Point"},"id":0}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "label": "Label \nonly",
+        "text-color":"%23DD0000",
+        "text-outline-color": "%2300DD00",
+        "outline-width":2,
+        "size":"large"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.200157,
+          53.216501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "MEDIUM PIN",
+        "text-color": "%23632289",
+        "size": "medium",
+        "color": "%23AA82E7",
+        "outline-color": "%23632289"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.211338,
+          53.217298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "diamond",
+        "label": "Large diamond",
+        "size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.209655,
+          53.226623
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "cp",
+        "size": "small",
+        "label":"Small position \nmarker",
+        "text-color":"%2306AF8F"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.18945,
+          53.224859
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
