@@ -5,8 +5,7 @@
       "type": "Feature",
       "properties": {
         "Location": "Seberang Flour Mills SB",
-        "value": "Klang",
-        "label-text": "Seberang\\nFlour Mills"
+        "value": "Klang"
       },
       "geometry": {
         "coordinates": [
@@ -15,7 +14,8 @@
         ],
         "type": "Point"
       },
-      "id": 0
+      "id": 0,
+      "label-text": "Seberang\\nFlour Mills"
     }
   ]
 }
